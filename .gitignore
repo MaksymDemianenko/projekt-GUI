@@ -1,0 +1,23 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+*.csproj.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Runtime data
+*.tmp
+*.temp
